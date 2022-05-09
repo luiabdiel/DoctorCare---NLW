@@ -492,6 +492,18 @@ footer .social-links {
   justify-content: flex-start;
 }
 
+footer .social-links
+
+footer .social a{
+  transition: 0.3s;
+  display: inline-block;
+}
+
+footer .social a:hover{
+  transform: translateY(-5px);
+}
+
+
 /* BACK TO TOP */
 #backToTopButton {
   position: fixed;
